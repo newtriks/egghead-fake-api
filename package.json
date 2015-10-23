@@ -1,0 +1,15 @@
+{
+  "name": "egghead-fake-api",
+  "version": "1.0.0",
+  "description": "Creating a fake api using hapi-dummy-api",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^11.0.2",
+    "hapi-dummy-api": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Bailey <simon@newtriks.com>"
+}
